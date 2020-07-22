@@ -15,4 +15,4 @@ What i configure from the SUT :
 * Add a clover dependency to the pom.xml
 * Add a new directory test so that the minimization program can access it.
 
-This project is for study purposes.
+> This project is for study purposes. You can read how to run the minimization in the original source.
