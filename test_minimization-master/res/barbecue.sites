@@ -1,0 +1,10 @@
+net/sourceforge/barbecue/BarcodeImageHandler,<clinit>,()V,0,4,java/util/Set
+net/sourceforge/barbecue/linear/code128/CharBuffer,<init>,(I)V,10,14,java/util/List
+net/sourceforge/barbecue/linear/upc/ModuleFactory,<clinit>,()V,108,112,java/util/List
+net/sourceforge/barbecue/linear/upc/ModuleFactory,<clinit>,()V,118,122,java/util/List
+net/sourceforge/barbecue/CompositeModule,<init>,()V,8,12,java/util/List
+net/sourceforge/barbecue/linear/code128/ModuleFactory,<clinit>,()V,0,4,java/util/List
+net/sourceforge/barbecue/linear/code128/ModuleFactory,<clinit>,()V,10,14,java/util/List
+net/sourceforge/barbecue/linear/code128/ModuleFactory,<clinit>,()V,20,24,java/util/List
+net/sourceforge/barbecue/linear/code39/ModuleFactory,<clinit>,()V,53,57,java/util/List
+net/sourceforge/barbecue/linear/code39/ModuleFactory,<clinit>,()V,83,87,java/util/Collection

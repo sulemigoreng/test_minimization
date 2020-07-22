@@ -1,0 +1,26 @@
+	testConstants--> coverage: 0.27938780260707635
+	testFactory_days_int--> coverage: 0.27938780260707635
+	testFactory_daysBetween_RInstant--> coverage: 0.27938780260707635
+	testFactory_daysBetween_RPartial_LocalDate--> coverage: 0.27938780260707635
+	testFactory_daysBetween_RPartial_YearMonth--> coverage: 0.27938780260707635
+	testFactory_daysBetween_RPartial_MonthDay--> coverage: 0.27938780260707635
+	testFactory_daysIn_RInterval--> coverage: 0.27938780260707635
+	testFactory_standardDaysIn_RPeriod--> coverage: 0.27938780260707635
+	testFactory_parseDays_String--> coverage: 0.27938780260707635
+	testGetMethods--> coverage: 0.27938780260707635
+	testGetFieldType--> coverage: 0.27938780260707635
+	testGetPeriodType--> coverage: 0.27938780260707635
+	testConstants--> coverage: 0.2756052141527002
+	testFactory_hours_int--> coverage: 0.2756052141527002
+	testFactory_hoursBetween_RInstant--> coverage: 0.2756052141527002
+	testFactory_hoursBetween_RPartial--> coverage: 0.2756052141527002
+	testFactory_hoursIn_RInterval--> coverage: 0.2756052141527002
+	testFactory_standardHoursIn_RPeriod--> coverage: 0.2756052141527002
+	testFactory_parseHours_String--> coverage: 0.2756052141527002
+	testGetMethods--> coverage: 0.2756052141527002
+	testGetFieldType--> coverage: 0.2756052141527002
+	testGetPeriodType--> coverage: 0.2756052141527002
+	testIsGreaterThan--> coverage: 0.2756052141527002
+	testIsLessThan--> coverage: 0.2756052141527002
+
+Coverage by Test Suite: 0.2916666666666667

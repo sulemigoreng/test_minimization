@@ -1,0 +1,9 @@
+/* objective function */
+min:
++2.0*x1 +2.0*x2;
+
+/* constraints */
+s1: x1 >= 1;
+s2: x2 >= 1;
+s3: x1 + x2 >= 2;
+

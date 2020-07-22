@@ -1,0 +1,14 @@
+jdepend/framework/JavaClassBuilder,build,()Ljava/util/Collection;,0,4,java.util.Collection
+jdepend/framework/JavaClassBuilder,buildClasses,(Ljava/util/jar/JarFile;)Ljava/util/Collection;,0,4,java.util.Collection
+jdepend/framework/JavaClassBuilder,buildClasses,(Ljava/io/File;)Ljava/util/Collection;,31,35,java.util.Collection
+jdepend/framework/PropertyConfigurator,getConfiguredPackages,()Ljava/util/Collection;,0,4,java.util.Collection
+jdepend/framework/PropertyConfigurator,getFilteredPackages,()Ljava/util/Collection;,0,4,java.util.Collection
+jdepend/framework/PackageFilter,<init>,(Ljava/util/Collection;)V,5,9,java.util.Collection
+jdepend/framework/PackageFilter,<init>,(Ljava/io/File;)V,1,5,java.util.Collection
+jdepend/framework/PackageFilter,<init>,()V,1,5,java.util.Collection
+jdepend/framework/JavaPackage,<init>,(Ljava/lang/String;I)V,15,19,java.util.Collection
+jdepend/framework/JavaPackage,<init>,(Ljava/lang/String;I)V,26,30,java.util.Collection
+jdepend/framework/JavaPackage,<init>,(Ljava/lang/String;I)V,37,41,java.util.Collection
+jdepend/framework/JavaPackage,containsCycle,()Z,1,5,java.util.List
+jdepend/framework/FileManager,<init>,()V,5,9,java.util.Collection
+jdepend/framework/FileManager,extractFiles,()Ljava/util/Collection;,0,4,java.util.Collection

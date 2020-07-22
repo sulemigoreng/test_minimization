@@ -1,0 +1,12 @@
+test/java/org/joda/time/TestDays.java:testConstants
+test/java/org/joda/time/TestDays.java:testFactory_days_int
+test/java/org/joda/time/TestDays.java:testFactory_daysBetween_RInstant
+test/java/org/joda/time/TestDays.java:testFactory_daysBetween_RPartial_LocalDate
+test/java/org/joda/time/TestDays.java:testFactory_daysBetween_RPartial_YearMonth
+test/java/org/joda/time/TestDays.java:testFactory_daysBetween_RPartial_MonthDay
+test/java/org/joda/time/TestHours.java:testConstants
+test/java/org/joda/time/TestHours.java:testFactory_hours_int
+test/java/org/joda/time/TestHours.java:testFactory_hoursBetween_RInstant
+test/java/org/joda/time/TestHours.java:testFactory_hoursBetween_RPartial
+test/java/org/joda/time/TestHours.java:testFactory_hoursIn_RInterval
+test/java/org/joda/time/TestHours.java:testFactory_standardHoursIn_RPeriod

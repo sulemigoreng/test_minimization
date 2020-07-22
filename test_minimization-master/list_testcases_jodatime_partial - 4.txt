@@ -1,0 +1,4 @@
+test/java/org/joda/time/TestDays.java:testConstants
+test/java/org/joda/time/TestDays.java:testFactory_days_int
+test/java/org/joda/time/TestHours.java:testConstants
+test/java/org/joda/time/TestHours.java:testFactory_hours_int
