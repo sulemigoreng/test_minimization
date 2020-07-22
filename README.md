@@ -4,7 +4,7 @@ original source : https://github.com/irenelizeth/test_minimization
 <br/>
 SUT : https://github.com/JodaOrg/joda-time
 
-Implement the test minimization technique in two test file from the SUT.
+Example of a working project from the original source with the SUT.
 
 What i configure from the original source : 
 * Add a new list_testcases_jodatime_partial.txt 
